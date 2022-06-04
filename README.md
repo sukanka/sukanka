@@ -3,9 +3,8 @@
 
 
 - 🔭 I’m currently persuing master degree in Economics at Xiamen University.
-- 🌱 I’m currently learning C Primer Plus.
+- 🌱 I’m currently learning RUST.
 - 🤔 I want to be a Linux system engineer.
-- ⚡ I want improve my programming ability in C++/Qt as well as [Skykey](https://github.com/skykeyjoker).
 - 💬 Ask me about anything you want to ask, though I may not reply.
 - 📫 How to reach me: send email to [su975853527@gmail.com](mailto:su975853527@gmail.com)
 
